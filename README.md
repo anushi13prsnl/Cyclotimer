@@ -1,7 +1,7 @@
-# Cyclo-Timer
+# Cyclotimer
 # Welcome to Cyclotimer 🕒
 
-## Team: The Time Masters
+## Team Members
 
 - Anuj Kumar (Roll Number: 2310991699)
 - Apoorva Verma (Roll Number: 2310991701)
@@ -11,11 +11,6 @@
 
 Cyclotimer is a project developed by The Time Masters. It's a countdown timer application designed to keep track of time efficiently for various purposes.
 
-## Acknowledgments
-
-We extend our heartfelt gratitude to:
-
-- **Aastha**, our senior from the 2nd year at Chitkara, for her invaluable guidance and support throughout this project.
 
 ## Features
 
@@ -42,9 +37,8 @@ Contributions are welcome! If you wish to contribute to this project, please fol
 
 ## Support
 
-For any queries or issues, feel free to contact any of the team members:
+For any queries or issues, feel free to contact any of the team members.
 
-- Anuj Kumar - [GitHub](https://github.com/Anuj-er)
 
 ## License
 
